@@ -118,7 +118,8 @@ img{
         left: 50%;
         transform: translateX(-50%);
         height: 40%;
-        width: 40%;
+        width: 100%;
+        margin: 0 5%;
         display: block;
     }
     #talk{
@@ -126,7 +127,8 @@ img{
         left: 50%;
         transform: translateX(-50%);
         height: fit-content;
-        width: 40%;
+        width: 100%;
+        margin: 0 5%:
         display: block;
     }
     #talk p, #talk h1, #talk div{
